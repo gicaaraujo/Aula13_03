@@ -9,8 +9,8 @@ void main(){
 
   print("==========LOBO==========");
   print("Nome: " + lobo.nome);
-  print("Idade: " + lobo.sexo);
-  print("Endereço: " + lobo.raca);
+  print("Sexo: " + lobo.sexo);
+  print("Raça: " + lobo.raca);
   lobo.emitirSom();
   lobo.dormir();
   lobo.correr();
@@ -23,8 +23,8 @@ void main(){
 
   print("==========LEÃO==========");
   print("Nome: " + leao.nome);
-  print("Idade: " + leao.sexo);
-  print("Endereço: " + leao.raca);
+  print("Sexo: " + leao.sexo);
+  print("Raça: " + leao.raca);
   leao.emitirSom();
   leao.dormir();
   leao.correr();
@@ -37,8 +37,8 @@ void main(){
 
   print("==========CACHORRO==========");
   print("Nome: " + cachorro.nome);
-  print("Idade: " + cachorro.sexo);
-  print("Endereço: " + cachorro.raca);
+  print("Sexo: " + cachorro.sexo);
+  print("Raça: " + cachorro.raca);
   cachorro.emitirSom();
   cachorro.dormir();
   cachorro.correr();
@@ -51,8 +51,8 @@ void main(){
 
   print("==========GATO==========");
   print("Nome: " + gato.nome);
-  print("Idade: " + gato.sexo);
-  print("Endereço: " + gato.raca);
+  print("Sexo: " + gato.sexo);
+  print("Raça: " + gato.raca);
   gato.emitirSom();
   gato.dormir();
   gato.correr();
